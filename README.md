@@ -26,11 +26,5 @@ npm install
 npm run dev
 ```
 
-## 🌐 Live Demo
-:contentReference[oaicite:0]{index=0}
-
-## 📂 GitHub Repo
-:contentReference[oaicite:1]{index=1}
-
 ## 👨‍💻 Author
 Jithin Venkata Sai
